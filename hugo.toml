@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "US/Eastern"
 timeout = "120s"
-title = "Kendra Plante Photography"
+title = "Home"
 theme = ["gallery"]
 
 [params]
