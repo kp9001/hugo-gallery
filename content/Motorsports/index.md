@@ -3,7 +3,7 @@ description:
 menus: "main"
 title: Motorsports
 categories: ["Motorsports"]
-weight: 3
+weight: 20
 resources:
   - src: vir_gtworld_2024_gt3_1.jpg
   - src: vir_gtworld_2024_gt3_3.jpg

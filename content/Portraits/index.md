@@ -3,7 +3,7 @@ description:
 menus: "main"
 title: Portraits
 categories: ["Portraits"]
-weight: 3
+weight: 30
 resources:
   - src: jannett_dc_snow_2025_6237.jpg
   - src: jannett_dc_snow_2025_6237.jpg
