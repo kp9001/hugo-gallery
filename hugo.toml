@@ -5,7 +5,8 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "US/Eastern"
 timeout = "120s"
-title = "Gallery"
+title = "Kendra Plante Photography"
+theme = ["gallery"]
 
 [params]
   defaultTheme = "dark"
@@ -41,11 +42,11 @@ title = "Gallery"
     disableLatLong = true
     includeFields = "ImageDescription|Orientation"
 
-[module]
-  [module.hugoVersion]
-    min = "0.121.2"
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+#[module]
+#  [module.hugoVersion]
+#    min = "0.121.2"
+#  [[module.imports]]
+#    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
 [menu]
   [[menu.footer]]
