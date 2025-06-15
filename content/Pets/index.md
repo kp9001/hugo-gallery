@@ -1,0 +1,12 @@
+---
+description: 
+menus: "main"
+title: Pets
+categories: ["Pets"]
+weight: 3
+resources:
+  - src: penny_backyard_2025_06_06_8057.jpg
+    params:
+      cover: true
+---
+
