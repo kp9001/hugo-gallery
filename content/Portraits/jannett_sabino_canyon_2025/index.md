@@ -9,5 +9,7 @@ resources:
     params:
       cover: true
   - src: arizona_february_2025_7631.jpg
+  - src: arizona_february_2025_7640.jpg
+  - src: arizona_february_2025_7653.jpg
 ---
 
