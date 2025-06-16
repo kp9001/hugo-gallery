@@ -3,7 +3,7 @@ description:
 menus: "main"
 title: Motorsports
 categories: ["Motorsports"]
-weight: 20
+weight: 10
 resources:
   - src: vir_michelingt_gt3_1.jpg
     params:
