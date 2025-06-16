@@ -1,15 +1,11 @@
 ---
+date: 2024-08-24
 description: 
 menus: "main"
-title: Motorsports
+title: VIR Michelin GT 2024
 categories: ["Motorsports"]
-weight: 20
+weight: 998
 resources:
-  - src: vir_gtworld_2024_gt3_1.jpg
-  - src: vir_gtworld_2024_gt3_3.jpg
-  - src: vir_gtworld_2024_gt3_4.jpg
-  - src: vir_gtworld_2024_grcup_2.jpg
-  - src: vir_gtworld_2024_grcup_1.jpg
   - src: vir_michelingt_gt3_4.jpg
   - src: vir_michelingt_gt3_3.jpg
   - src: vir_michelingt_gt3_2.jpg
