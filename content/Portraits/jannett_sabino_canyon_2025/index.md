@@ -1,14 +1,10 @@
 ---
 description: 
 menus: "main"
-title: Portraits
+title: Jannett Wehle - Sabino Canyon - February 2025
 categories: ["Portraits"]
-weight: 30
+weight: 998
 resources:
-  - src: jannett_dc_snow_2025_6237.jpg
-  - src: jannett_dc_snow_2025_6237.jpg
-  - src: jannett_dc_snow_2025_6197.jpg
-  - src: jannett_dc_snow_2025_6206.jpg
   - src: arizona_february_2025_7302.jpg
     params:
       cover: true
