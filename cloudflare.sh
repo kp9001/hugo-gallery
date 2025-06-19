@@ -11,6 +11,8 @@ for i in ${albums[@]}; do
 	done;
 done
 
+./subalbums.sh
+
 rm ./*.tar.gz 2>/dev/null
 
 wget "https://go.dev/dl/$(curl -s https://api.github.com/repos/golang/go/git/matching-refs/tags/go | grep ref | grep -v url | grep -v beta | tail -1 | awk -F\/ {' print $3 '} | sed 's/",//').linux-amd64.tar.gz"
