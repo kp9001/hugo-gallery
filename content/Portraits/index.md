@@ -11,8 +11,7 @@ resources:
   - src: boston_june_2025_0859.jpg
     params:
       cover: true
-  - src: boston_june_2025_0683.jpg
   - src: boston_june_2025_9138.jpg
-  - src: boston_june_2025_9190.jpg
+  - src: boston_june_2025_9467.jpg
 ---
 
