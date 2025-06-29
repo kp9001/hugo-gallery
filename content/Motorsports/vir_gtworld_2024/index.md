@@ -1,7 +1,6 @@
 ---
 date: 2024-07-21
 description: 
-menus: "main"
 title: VIR GT World Challenge 2024
 categories: ["Motorsports"]
 weight: 999

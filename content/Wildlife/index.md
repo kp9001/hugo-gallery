@@ -1,6 +1,5 @@
 ---
 description: 
-menus: "main"
 title: Wildlife
 categories: ["Wildlife"]
 weight: 40

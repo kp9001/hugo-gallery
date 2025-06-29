@@ -1,6 +1,5 @@
 ---
 description: 
-menus: "main"
 title: Portraits
 categories: ["Portraits"]
 weight: 30
