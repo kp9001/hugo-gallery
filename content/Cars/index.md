@@ -3,7 +3,7 @@ description:
 menus: "main"
 title: Cars
 categories: ["Cars"]
-weight: 40
+weight: 20
 resources:
   - src: ct_miata_june_2025_8743.jpg
     params:
