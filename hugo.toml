@@ -13,7 +13,7 @@ theme = ["gallery"]
   description = "Photography portfolio for Kendra Plante Photography"
   title = "Kendra Plante Photography"
   [params.author]
-    email = "kendra@kendraplantephotography.com"
+    email = "kendra@kplante.com"
     name = "Kendra Plante"
   [params.socialIcons]
     instagram = "https://instagram.com/plante.kendra936"
