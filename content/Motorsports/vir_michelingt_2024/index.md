@@ -4,6 +4,9 @@ description:
 title: VIR IMSA Michelin GT 2024
 categories: ["Motorsports"]
 weight: 998
+params:
+    sort_by: Date
+    sort_order: desc
 resources:
   - src: vir_michelingt_gt3_4.jpg
   - src: vir_michelingt_gt3_3.jpg

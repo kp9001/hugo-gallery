@@ -4,6 +4,9 @@ description:
 title: VIR GT World Challenge 2024
 categories: ["Motorsports"]
 weight: 999
+params:
+    sort_by: Date
+    sort_order: desc
 resources:
   - src: vir_gtworld_2024_gt3_1.jpg
   - src: vir_gtworld_2024_gt3_3.jpg

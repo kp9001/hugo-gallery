@@ -3,6 +3,9 @@ description:
 title: Pets
 categories: ["Pets"]
 weight: 50
+params:
+	sort_by: Date
+	sort_order: desc
 resources:
   - src: penny_backyard_2025_06_06_8057.jpg
     params:

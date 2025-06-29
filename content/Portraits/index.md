@@ -3,6 +3,9 @@ description:
 title: Portraits
 categories: ["Portraits"]
 weight: 30
+params:
+    sort_by: Date
+    sort_order: desc
 resources:
   - src: arizona_february_2025_7302.jpg
   - src: jannett_dc_snow_2025_6237.jpg
