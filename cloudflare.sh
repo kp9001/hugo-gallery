@@ -1,7 +1,7 @@
 #!/bin/bash
 
 key="83ba6fa46633ca5ea36c6e852c32a1d5"
-albums=("Street" "Wildlife" "Pets" "Portraits" "Motorsports")
+albums=("Street" "Wildlife" "Cars" "Portraits" "Motorsports")
 
 for i in ${albums[@]}; do mkdir content/$i; done
 
