@@ -13,5 +13,6 @@ resources:
       cover: true
   - src: boston_june_2025_9138.jpg
   - src: boston_june_2025_9467.jpg
+  - src: frederick_pride_2025_6058.jpg
 ---
 
