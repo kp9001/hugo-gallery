@@ -2,7 +2,7 @@
 date: 2024-08-24
 description: 
 menus: "main"
-title: VIR Michelin GT 2024
+title: VIR IMSA Michelin GT 2024
 categories: ["Motorsports"]
 weight: 998
 resources:
