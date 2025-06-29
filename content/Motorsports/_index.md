@@ -1,6 +1,5 @@
 ---
 description: 
-menus: "main"
 title: Motorsports
 categories: ["Motorsports"]
 weight: 10
