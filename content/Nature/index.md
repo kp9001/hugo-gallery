@@ -8,8 +8,8 @@ params:
     sort_order: desc
 resources:
   - src: luray_caverns_july_2025_6744.jpg
-  params:
-    cover: true
+    params:
+        cover: true
   - src: luray_caverns_july_2025_6767.jpg
 ---
 
