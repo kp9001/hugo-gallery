@@ -19,7 +19,8 @@ wget "https://go.dev/dl/$(curl -s https://api.github.com/repos/golang/go/git/mat
 tar -C /usr/local -xzf go1.24.4.linux-amd64.tar.gz
 export PATH=$PATH:/usr/local/go/bin
 
-wget $( curl -L -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "browser_download_url.*linux-amd64.tar.gz" | grep "extended" | grep -v "withdeploy" | cut -d\" -f4 )
+#wget $( curl -L -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "browser_download_url.*linux-amd64.tar.gz" | grep "extended" | grep -v "withdeploy" | cut -d\" -f4 )
+wget https://github.com/gohugoio/hugo/releases/download/v0.147.0/hugo_extended_0.147.0_Linux-64bit.tar.gz
 tar -xvzf ./hugo*.tar.gz hugo
 chmod u+x ./hugo
 
