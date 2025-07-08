@@ -16,5 +16,6 @@ resources:
   - src: boston_june_2025_9138.jpg
   - src: boston_june_2025_9467.jpg
   - src: frederick_pride_2025_6058.jpg
+  - src: luray_caverns_july_2025_7244.jpg
 ---
 
